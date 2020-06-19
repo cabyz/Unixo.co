@@ -1,9 +1,12 @@
+# Download
+
+Download JAR here:
+
 # Unixo.co
 Unixo.co Minecraft Anti-cheat Beta Plugin
 
 Unixo is a Spigot server anticheat plugin designed to detect and prevent abuse of the Minecraft protocol. Unixo does not require any dependencies, since it relies on Spigot, Netty, and NMS code.
-
-Download JAR here: 
+ 
 
 # Attribution
 

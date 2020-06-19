@@ -2,6 +2,13 @@
 
 Download JAR here:
 
+(VirusTotal files analysis):
+
+https://www.virustotal.com/gui/file/11bc36b929c10d98febd55e19b573fa37a43f58f4606131fbfaf6ecbf7c10dff/detection
+
+https://www.virustotal.com/gui/file/ed8fb00c5402345bbe4734d7fcd04097974f8f7e3805aafb70d6b2d4c0641a09/detection
+
+
 # Unixo.co
 Unixo.co Minecraft Anti-cheat Beta Plugin
 

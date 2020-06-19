@@ -5,11 +5,11 @@ Unixo is a Spigot server anticheat plugin designed to detect and prevent abuse o
 
 Download JAR here: 
 
-#Attribution
+# Attribution
 
 If you wish to incorporate code from this project into your own project for distribution, you need to give us proper attribution. Selling or distributing Unixo.co code is not allowed.
 
 
-#Contributing
+# Contributing
 
 Feel free to contribute. Small pull requests, please.

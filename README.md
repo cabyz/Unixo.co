@@ -1,6 +1,6 @@
 # Download
 
-Download JAR here: https://www.dropbox.com/sh/hmge9hz0xsdjmn3/AAC5gEhrPN7GNk7i5l2VaerOa?dl=0
+→ Download JAR here: https://www.dropbox.com/sh/hmge9hz0xsdjmn3/AAC5gEhrPN7GNk7i5l2VaerOa?dl=0
 
 (VirusTotal files analysis):
 
